@@ -8,7 +8,7 @@ public:
         queue<pair<int , pair<int,int>>> q;
 
         vector<vector<int>> dist(n, vector<int>(n,1e9));
-        dist[source.first][source.second] = 0;
+        dist[source.first][source.second] = 1;
         q.push({1, {source.first, source.second}});
         int dr[] = {-1,-1,0,1,1,1,0,-1};
         int dc[] = {0,1,1,1,0,-1,-1,-1};
