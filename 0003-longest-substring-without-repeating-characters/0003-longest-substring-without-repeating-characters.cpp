@@ -5,23 +5,15 @@ public:
         int maxLen = 0;
 
         for(int i = 0; i < n; i++) {
+            vector<bool> visited(256, false);
+
             for(int j = i; j < n; j++) {
-                
-                // Check substring from i to j
-                bool visited[256] = {false};
-                bool hasDuplicate = false;
-
-                for(int k = i; k <= j; k++) {
-                    if(visited[s[k]]) {
-                        hasDuplicate = true;
-                        break;
-                    }
-                    visited[s[k]] = true;
+                if(visited[s[j]]) {
+                    break;  // duplicate found → stop expanding
                 }
 
-                if(!hasDuplicate) {
-                    maxLen = max(maxLen, j - i + 1);
-                }
+                visited[s[j]] = true;
+                maxLen = max(maxLen, j - i + 1);
             }
         }
 
