@@ -1,17 +1,16 @@
 class Solution {
 public:
-    int func(int ind){
-        if(ind==0){
-            return 1;
-        }
+    int func(int ind, vector<int> &dp){
+        if(ind==0) return 1;
         if(ind==1) return 1;
+        if(dp[ind] != -1) return dp[ind];
+        int left = func(ind-1,dp);
+        int right = func(ind-2,dp);
 
-        int left = func(ind-1);
-        int right = func(ind-2);
-
-        return left+right;
+        return dp[ind] = left+right;
     }
     int climbStairs(int n) {
-        return func (n);
+        vector<int> dp(n+1,-1);
+        return func(n, dp);;
     }
 };
