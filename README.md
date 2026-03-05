@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Astro1401/Astro1401/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -67,4 +69,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Astro1401/Astro1401/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
