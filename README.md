@@ -117,5 +117,6 @@ Here are some ideas to get you started:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0476-number-complement](https://github.com/Astro1401/Astro1401/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Astro1401/Astro1401/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
