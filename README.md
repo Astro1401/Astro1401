@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Astro1401/Astro1401/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Astro1401/Astro1401/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Astro1401/Astro1401/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Astro1401/Astro1401/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Astro1401/Astro1401/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -58,6 +59,7 @@ Here are some ideas to get you started:
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Astro1401/Astro1401/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Astro1401/Astro1401/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Astro1401/Astro1401/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Astro1401/Astro1401/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Astro1401/Astro1401/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Astro1401/Astro1401/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -69,6 +71,7 @@ Here are some ideas to get you started:
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [1622-fancy-sequence](https://github.com/Astro1401/Astro1401/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Astro1401/Astro1401/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -89,6 +92,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Astro1401/Astro1401/tree/main/0054-spiral-matrix/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Astro1401/Astro1401/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
