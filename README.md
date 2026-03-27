@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 | [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Astro1401/Astro1401/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Astro1401/Astro1401/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/Astro1401/Astro1401/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Astro1401/Astro1401/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -55,6 +56,7 @@ Here are some ideas to get you started:
 | [0048-rotate-image](https://github.com/Astro1401/Astro1401/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Astro1401/Astro1401/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Astro1401/Astro1401/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Astro1401/Astro1401/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -102,6 +104,7 @@ Here are some ideas to get you started:
 | [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Astro1401/Astro1401/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Astro1401/Astro1401/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/Astro1401/Astro1401/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Astro1401/Astro1401/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
