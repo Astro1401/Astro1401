@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 | [0063-unique-paths-ii](https://github.com/Astro1401/Astro1401/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/Astro1401/Astro1401/tree/main/0118-pascals-triangle/) | Easy |
+| [0120-triangle](https://github.com/Astro1401/Astro1401/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Astro1401/Astro1401/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Astro1401/Astro1401/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -110,6 +111,7 @@ Here are some ideas to get you started:
 | [0063-unique-paths-ii](https://github.com/Astro1401/Astro1401/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/Astro1401/Astro1401/tree/main/0118-pascals-triangle/) | Easy |
+| [0120-triangle](https://github.com/Astro1401/Astro1401/tree/main/0120-triangle/) | Medium |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Astro1401/Astro1401/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
