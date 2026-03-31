@@ -1,24 +1,27 @@
 class Solution {
 public:
     bool checkStrings(string s1, string s2) {
-        if (s1.length() != s2.length()) {
-            return false;
-        }
+        
+      vector<int> even(26,0);
+      vector<int> odd(26,0);
 
-        int counts[256] = {0};
+      for(int i = 0; i<s1.size(); i++){
+         if(i%2 == 0) even[s1[i] - 'a']++;
 
-        for (int i = 0; i < s1.length(); i++) {
-            int offset = (i & 1) << 7;
-            counts[offset + s1[i]]++;
-            counts[offset + s2[i]]--;
-        }
+         else{
+            odd[s1[i] - 'a']++;
+         }
+      }
+    
+      for(int i = 0; i<s2.size(); i++){
+         if(i%2 == 0) even[s2[i] - 'a']--;
 
-        for (int i = 0; i < 256; i++) {
-            if (counts[i] != 0) {
-                return false;
-            }
-        }
+         else{
+            odd[s2[i] - 'a']--;
+         }
+      }
 
-        return true;
+      return even == vector<int>(26,0) && odd == vector<int>(26,0);
+    
     }
 };
