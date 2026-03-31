@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 | [0120-triangle](https://github.com/Astro1401/Astro1401/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Astro1401/Astro1401/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Astro1401/Astro1401/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Astro1401/Astro1401/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -116,6 +117,7 @@ Here are some ideas to get you started:
 | [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/Astro1401/Astro1401/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Astro1401/Astro1401/tree/main/0120-triangle/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Astro1401/Astro1401/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Astro1401/Astro1401/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
