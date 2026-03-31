@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 | [0120-triangle](https://github.com/Astro1401/Astro1401/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Astro1401/Astro1401/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Astro1401/Astro1401/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -121,6 +122,7 @@ Here are some ideas to get you started:
 | [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/Astro1401/Astro1401/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Astro1401/Astro1401/tree/main/0120-triangle/) | Medium |
+| [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Astro1401/Astro1401/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -227,4 +229,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Astro1401/Astro1401/tree/main/0062-unique-paths/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
