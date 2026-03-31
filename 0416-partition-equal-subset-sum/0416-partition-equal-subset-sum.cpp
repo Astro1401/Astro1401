@@ -25,7 +25,7 @@ public:
                 bool take = false;
                 if(nums[i]<=j) take = dp[i-1][j-nums[i]];
 
-                dp[i][j] = nottake | take;
+                dp[i][j] = nottake || take;
             }
         }
 
