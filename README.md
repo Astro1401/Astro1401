@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 | [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Astro1401/Astro1401/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
+| [0494-target-sum](https://github.com/Astro1401/Astro1401/tree/main/0494-target-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Astro1401/Astro1401/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -128,6 +129,7 @@ Here are some ideas to get you started:
 | [0120-triangle](https://github.com/Astro1401/Astro1401/tree/main/0120-triangle/) | Medium |
 | [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Astro1401/Astro1401/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Astro1401/Astro1401/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Astro1401/Astro1401/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -174,6 +176,7 @@ Here are some ideas to get you started:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0494-target-sum](https://github.com/Astro1401/Astro1401/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Astro1401/Astro1401/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
