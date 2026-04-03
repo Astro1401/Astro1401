@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Astro1401/Astro1401/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -99,6 +100,7 @@ Here are some ideas to get you started:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Astro1401/Astro1401/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Astro1401/Astro1401/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -118,6 +120,7 @@ Here are some ideas to get you started:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -130,6 +133,7 @@ Here are some ideas to get you started:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Astro1401/Astro1401/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Astro1401/Astro1401/tree/main/0063-unique-paths-ii/) | Medium |
