@@ -8,7 +8,7 @@ public:
 
         dp[0][0] = true;
         for(int i = 1; i<=n; i++){
-            dp[0][i] = false;
+            dp[i][0] = false;
         }
 
         for(int j = 1; j<=m; j++){
@@ -19,7 +19,7 @@ public:
                     break;
                 } 
             }
-                dp[j][0] = flag;
+                dp[0][j] = flag;
         }
         
         for(int i = 1; i<=n; i++){
