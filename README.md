@@ -115,6 +115,7 @@ Here are some ideas to get you started:
 | [0115-distinct-subsequences](https://github.com/Astro1401/Astro1401/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Astro1401/Astro1401/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/Astro1401/Astro1401/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/Astro1401/Astro1401/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Astro1401/Astro1401/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Astro1401/Astro1401/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -138,6 +139,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Astro1401/Astro1401/tree/main/0054-spiral-matrix/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/Astro1401/Astro1401/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Astro1401/Astro1401/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/Astro1401/Astro1401/tree/main/2751-robot-collisions/) | Hard |
