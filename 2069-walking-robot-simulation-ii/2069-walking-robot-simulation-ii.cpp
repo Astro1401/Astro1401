@@ -17,46 +17,32 @@ public:
     }
     
     void step(int num) {
-        num %= perimeter;
+    int k = num % perimeter;
 
-        // handle full cycle correctly
-        if (num == 0 && moved) {
-            num = perimeter;
+    // if it's a multiple of perimeter → full loop
+    if (k == 0 && num > 0) {
+        k = perimeter;
+    }
+
+    while (k--) {
+        if (dir == 0) {
+            if (x + 1 < w) x++;
+            else { dir = 1; y++; }
         }
-
-        moved = true;
-
-        while (num--) {
-            if (dir == 0) { // East
-                if (x + 1 < w) x++;
-                else {
-                    dir = 1;
-                    y++;
-                }
-            }
-            else if (dir == 1) { // North
-                if (y + 1 < h) y++;
-                else {
-                    dir = 2;
-                    x--;
-                }
-            }
-            else if (dir == 2) { // West
-                if (x - 1 >= 0) x--;
-                else {
-                    dir = 3;
-                    y--;
-                }
-            }
-            else { // South
-                if (y - 1 >= 0) y--;
-                else {
-                    dir = 0;
-                    x++;
-                }
-            }
+        else if (dir == 1) {
+            if (y + 1 < h) y++;
+            else { dir = 2; x--; }
+        }
+        else if (dir == 2) {
+            if (x - 1 >= 0) x--;
+            else { dir = 3; y--; }
+        }
+        else {
+            if (y - 1 >= 0) y--;
+            else { dir = 0; x++; }
         }
     }
+}
     
     vector<int> getPos() {
         return {x, y};
