@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Astro1401/Astro1401/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0860-lemonade-change](https://github.com/Astro1401/Astro1401/tree/main/0860-lemonade-change/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Astro1401/Astro1401/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Astro1401/Astro1401/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -149,6 +150,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Astro1401/Astro1401/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Astro1401/Astro1401/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Astro1401/Astro1401/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Astro1401/Astro1401/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/Astro1401/Astro1401/tree/main/2751-robot-collisions/) | Hard |
@@ -199,6 +201,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/Astro1401/Astro1401/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Astro1401/Astro1401/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
