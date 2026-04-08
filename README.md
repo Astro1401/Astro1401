@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Astro1401/Astro1401/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Astro1401/Astro1401/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0135-candy](https://github.com/Astro1401/Astro1401/tree/main/0135-candy/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Astro1401/Astro1401/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Astro1401/Astro1401/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Astro1401/Astro1401/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -78,6 +79,7 @@ Here are some ideas to get you started:
 | [0045-jump-game-ii](https://github.com/Astro1401/Astro1401/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Astro1401/Astro1401/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Astro1401/Astro1401/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0135-candy](https://github.com/Astro1401/Astro1401/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Astro1401/Astro1401/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Astro1401/Astro1401/tree/main/0678-valid-parenthesis-string/) | Medium |
