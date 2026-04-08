@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/Astro1401/Astro1401/tree/main/0031-next-permutation/) | Medium |
 | [0045-jump-game-ii](https://github.com/Astro1401/Astro1401/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Astro1401/Astro1401/tree/main/0048-rotate-image/) | Medium |
@@ -129,6 +130,7 @@ Here are some ideas to get you started:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/0014-longest-common-prefix/) | Easy |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Astro1401/Astro1401/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Astro1401/Astro1401/tree/main/0115-distinct-subsequences/) | Hard |
@@ -343,4 +345,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
