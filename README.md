@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 | [3548-equal-sum-grid-partition-ii](https://github.com/Astro1401/Astro1401/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Astro1401/Astro1401/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Astro1401/Astro1401/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Astro1401/Astro1401/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Astro1401/Astro1401/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -156,6 +157,7 @@ Here are some ideas to get you started:
 | [2075-decode-the-slanted-ciphertext](https://github.com/Astro1401/Astro1401/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/Astro1401/Astro1401/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Astro1401/Astro1401/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Astro1401/Astro1401/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Astro1401/Astro1401/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
