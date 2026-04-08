@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 | [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Astro1401/Astro1401/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Astro1401/Astro1401/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Astro1401/Astro1401/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Astro1401/Astro1401/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Astro1401/Astro1401/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
@@ -293,6 +294,7 @@ Here are some ideas to get you started:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Astro1401/Astro1401/tree/main/0056-merge-intervals/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Astro1401/Astro1401/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Astro1401/Astro1401/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
