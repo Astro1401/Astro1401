@@ -141,6 +141,7 @@ Here are some ideas to get you started:
 | [0583-delete-operation-for-two-strings](https://github.com/Astro1401/Astro1401/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Astro1401/Astro1401/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Astro1401/Astro1401/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0796-rotate-string](https://github.com/Astro1401/Astro1401/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Astro1401/Astro1401/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -338,6 +339,7 @@ Here are some ideas to get you started:
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/Astro1401/Astro1401/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Astro1401/Astro1401/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
