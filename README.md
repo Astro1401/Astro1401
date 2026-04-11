@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Astro1401/Astro1401/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Astro1401/Astro1401/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Astro1401/Astro1401/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Astro1401/Astro1401/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@ Here are some ideas to get you started:
 | [3005-count-elements-with-maximum-frequency](https://github.com/Astro1401/Astro1401/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Astro1401/Astro1401/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Astro1401/Astro1401/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Astro1401/Astro1401/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
