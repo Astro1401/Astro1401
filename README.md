@@ -133,6 +133,7 @@ Here are some ideas to get you started:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Astro1401/Astro1401/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/0014-longest-common-prefix/) | Easy |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Astro1401/Astro1401/tree/main/0072-edit-distance/) | Medium |
@@ -184,6 +185,7 @@ Here are some ideas to get you started:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Astro1401/Astro1401/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Astro1401/Astro1401/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
@@ -254,6 +256,7 @@ Here are some ideas to get you started:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Astro1401/Astro1401/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0031-next-permutation](https://github.com/Astro1401/Astro1401/tree/main/0031-next-permutation/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
