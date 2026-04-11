@@ -8,7 +8,7 @@ public:
 
         // 2. Sign
         int sign = 1;
-        if(i < n && (s[i] == '+' || s[i] == '-')) {
+        if(i < n && ( s[i] == '-')) {
             if(s[i] == '-') sign = -1;
             i++;
         }
