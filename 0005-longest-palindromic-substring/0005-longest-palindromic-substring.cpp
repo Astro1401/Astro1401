@@ -6,9 +6,7 @@ public:
             if(s[i] == s[j]) return dp[i][j] = solve(s, i+1, j-1, dp);
 
             else return dp[i][j] = 0;
-       
 
-        return dp[i][j] = 1;
     }
     string longestPalindrome(string s) {
        int n = s.size();
