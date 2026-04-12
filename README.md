@@ -154,6 +154,7 @@ Here are some ideas to get you started:
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Astro1401/Astro1401/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Astro1401/Astro1401/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Astro1401/Astro1401/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Astro1401/Astro1401/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -220,6 +221,7 @@ Here are some ideas to get you started:
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Astro1401/Astro1401/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Astro1401/Astro1401/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Astro1401/Astro1401/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Astro1401/Astro1401/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Astro1401/Astro1401/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
