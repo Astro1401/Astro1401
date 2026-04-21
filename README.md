@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Astro1401/Astro1401/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Astro1401/Astro1401/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Astro1401/Astro1401/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -96,6 +97,7 @@ Here are some ideas to get you started:
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Astro1401/Astro1401/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Astro1401/Astro1401/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Astro1401/Astro1401/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
