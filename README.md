@@ -341,6 +341,7 @@ Here are some ideas to get you started:
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Astro1401/Astro1401/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Astro1401/Astro1401/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Astro1401/Astro1401/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1622-fancy-sequence](https://github.com/Astro1401/Astro1401/tree/main/1622-fancy-sequence/) | Hard |
@@ -388,6 +389,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Astro1401/Astro1401/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Astro1401/Astro1401/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Astro1401/Astro1401/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Astro1401/Astro1401/tree/main/0678-valid-parenthesis-string/) | Medium |
