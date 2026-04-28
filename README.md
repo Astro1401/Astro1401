@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Astro1401/Astro1401/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Astro1401/Astro1401/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -119,6 +120,7 @@ Here are some ideas to get you started:
 | [0063-unique-paths-ii](https://github.com/Astro1401/Astro1401/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Astro1401/Astro1401/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -303,6 +305,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Astro1401/Astro1401/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Astro1401/Astro1401/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -399,6 +402,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +442,7 @@ Here are some ideas to get you started:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Astro1401/Astro1401/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
