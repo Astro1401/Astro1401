@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Astro1401/Astro1401/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Astro1401/Astro1401/tree/main/0135-candy/) | Hard |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Astro1401/Astro1401/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Astro1401/Astro1401/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Astro1401/Astro1401/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Astro1401/Astro1401/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -356,6 +357,7 @@ Here are some ideas to get you started:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Astro1401/Astro1401/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Astro1401/Astro1401/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Astro1401/Astro1401/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
