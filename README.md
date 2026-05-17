@@ -159,6 +159,7 @@ Here are some ideas to get you started:
 | [1622-fancy-sequence](https://github.com/Astro1401/Astro1401/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Astro1401/Astro1401/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/Astro1401/Astro1401/tree/main/1922-count-good-numbers/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Astro1401/Astro1401/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Astro1401/Astro1401/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -213,6 +214,7 @@ Here are some ideas to get you started:
 | [0050-powx-n](https://github.com/Astro1401/Astro1401/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1922-count-good-numbers](https://github.com/Astro1401/Astro1401/tree/main/1922-count-good-numbers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
