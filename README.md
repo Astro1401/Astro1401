@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Astro1401/Astro1401/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Astro1401/Astro1401/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Astro1401/Astro1401/tree/main/0031-next-permutation/) | Medium |
 | [0045-jump-game-ii](https://github.com/Astro1401/Astro1401/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Astro1401/Astro1401/tree/main/0048-rotate-image/) | Medium |
@@ -323,6 +324,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Astro1401/Astro1401/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Astro1401/Astro1401/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Astro1401/Astro1401/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Astro1401/Astro1401/tree/main/0031-next-permutation/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
@@ -408,6 +410,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Astro1401/Astro1401/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Astro1401/Astro1401/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Astro1401/Astro1401/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/Astro1401/Astro1401/tree/main/0242-valid-anagram/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Astro1401/Astro1401/tree/main/0368-largest-divisible-subset/) | Medium |
