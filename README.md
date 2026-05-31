@@ -97,6 +97,7 @@ Here are some ideas to get you started:
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Astro1401/Astro1401/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Astro1401/Astro1401/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3161-block-placement-queries](https://github.com/Astro1401/Astro1401/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Astro1401/Astro1401/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Astro1401/Astro1401/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -406,6 +407,7 @@ Here are some ideas to get you started:
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Astro1401/Astro1401/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Astro1401/Astro1401/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/Astro1401/Astro1401/tree/main/2540-minimum-common-value/) | Easy |
+| [3161-block-placement-queries](https://github.com/Astro1401/Astro1401/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Astro1401/Astro1401/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Astro1401/Astro1401/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -439,6 +441,7 @@ Here are some ideas to get you started:
 | [0493-reverse-pairs](https://github.com/Astro1401/Astro1401/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1622-fancy-sequence](https://github.com/Astro1401/Astro1401/tree/main/1622-fancy-sequence/) | Hard |
+| [3161-block-placement-queries](https://github.com/Astro1401/Astro1401/tree/main/3161-block-placement-queries/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -501,6 +504,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Astro1401/Astro1401/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [3161-block-placement-queries](https://github.com/Astro1401/Astro1401/tree/main/3161-block-placement-queries/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
