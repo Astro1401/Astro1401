@@ -84,6 +84,7 @@ Here are some ideas to get you started:
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Astro1401/Astro1401/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/Astro1401/Astro1401/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Astro1401/Astro1401/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Astro1401/Astro1401/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Astro1401/Astro1401/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Astro1401/Astro1401/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -134,6 +135,7 @@ Here are some ideas to get you started:
 | [1903-largest-odd-number-in-string](https://github.com/Astro1401/Astro1401/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Astro1401/Astro1401/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Astro1401/Astro1401/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Astro1401/Astro1401/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -464,6 +466,7 @@ Here are some ideas to get you started:
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Astro1401/Astro1401/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Astro1401/Astro1401/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Astro1401/Astro1401/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2751-robot-collisions](https://github.com/Astro1401/Astro1401/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Astro1401/Astro1401/tree/main/2784-check-if-array-is-good/) | Easy |
