@@ -316,6 +316,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Astro1401/Astro1401/tree/main/0013-roman-to-integer/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Astro1401/Astro1401/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Astro1401/Astro1401/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Astro1401/Astro1401/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -361,6 +362,7 @@ Here are some ideas to get you started:
 | [0015-3sum](https://github.com/Astro1401/Astro1401/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Astro1401/Astro1401/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Astro1401/Astro1401/tree/main/0031-next-permutation/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Astro1401/Astro1401/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
@@ -558,6 +560,7 @@ Here are some ideas to get you started:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Astro1401/Astro1401/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
