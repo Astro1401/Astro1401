@@ -363,6 +363,7 @@ Here are some ideas to get you started:
 | [0005-longest-palindromic-substring](https://github.com/Astro1401/Astro1401/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Astro1401/Astro1401/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Astro1401/Astro1401/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Astro1401/Astro1401/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/Astro1401/Astro1401/tree/main/0031-next-permutation/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Astro1401/Astro1401/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Astro1401/Astro1401/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -565,6 +566,7 @@ Here are some ideas to get you started:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Astro1401/Astro1401/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Astro1401/Astro1401/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Astro1401/Astro1401/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0206-reverse-linked-list/) | Easy |
