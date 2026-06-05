@@ -241,6 +241,7 @@ Here are some ideas to get you started:
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Astro1401/Astro1401/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1922-count-good-numbers](https://github.com/Astro1401/Astro1401/tree/main/1922-count-good-numbers/) | Medium |
@@ -366,6 +367,7 @@ Here are some ideas to get you started:
 | [0141-linked-list-cycle](https://github.com/Astro1401/Astro1401/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Astro1401/Astro1401/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Astro1401/Astro1401/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -508,6 +510,7 @@ Here are some ideas to get you started:
 | [0155-min-stack](https://github.com/Astro1401/Astro1401/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Astro1401/Astro1401/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Astro1401/Astro1401/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Astro1401/Astro1401/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Astro1401/Astro1401/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Astro1401/Astro1401/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -565,5 +568,6 @@ Here are some ideas to get you started:
 | [0141-linked-list-cycle](https://github.com/Astro1401/Astro1401/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Astro1401/Astro1401/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
