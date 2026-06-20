@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Astro1401/Astro1401/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Astro1401/Astro1401/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Astro1401/Astro1401/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/Astro1401/Astro1401/tree/main/1840-maximum-building-height/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Astro1401/Astro1401/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Astro1401/Astro1401/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -187,6 +188,7 @@ Here are some ideas to get you started:
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Astro1401/Astro1401/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Astro1401/Astro1401/tree/main/1622-fancy-sequence/) | Hard |
+| [1840-maximum-building-height](https://github.com/Astro1401/Astro1401/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Astro1401/Astro1401/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/Astro1401/Astro1401/tree/main/1922-count-good-numbers/) | Medium |
@@ -499,6 +501,7 @@ Here are some ideas to get you started:
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
 | [1340-jump-game-v](https://github.com/Astro1401/Astro1401/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Astro1401/Astro1401/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1840-maximum-building-height](https://github.com/Astro1401/Astro1401/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Astro1401/Astro1401/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Astro1401/Astro1401/tree/main/2126-destroying-asteroids/) | Medium |
