@@ -122,6 +122,7 @@ Here are some ideas to get you started:
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Astro1401/Astro1401/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Astro1401/Astro1401/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Astro1401/Astro1401/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Astro1401/Astro1401/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Astro1401/Astro1401/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -370,6 +371,7 @@ Here are some ideas to get you started:
 | [3488-closest-equal-element-queries](https://github.com/Astro1401/Astro1401/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Astro1401/Astro1401/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Astro1401/Astro1401/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Astro1401/Astro1401/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Astro1401/Astro1401/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Astro1401/Astro1401/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -388,6 +390,7 @@ Here are some ideas to get you started:
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Astro1401/Astro1401/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Astro1401/Astro1401/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Astro1401/Astro1401/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +448,7 @@ Here are some ideas to get you started:
 | [3548-equal-sum-grid-partition-ii](https://github.com/Astro1401/Astro1401/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Astro1401/Astro1401/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Astro1401/Astro1401/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -498,6 +502,7 @@ Here are some ideas to get you started:
 | [1622-fancy-sequence](https://github.com/Astro1401/Astro1401/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/Astro1401/Astro1401/tree/main/3161-block-placement-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Astro1401/Astro1401/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -605,6 +610,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Astro1401/Astro1401/tree/main/0493-reverse-pairs/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Astro1401/Astro1401/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
