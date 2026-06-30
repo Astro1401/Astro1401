@@ -131,6 +131,7 @@ Here are some ideas to get you started:
 | [3742-maximum-path-score-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Astro1401/Astro1401/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Astro1401/Astro1401/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Astro1401/Astro1401/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,6 +539,7 @@ Here are some ideas to get you started:
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Astro1401/Astro1401/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Astro1401/Astro1401/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Astro1401/Astro1401/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Astro1401/Astro1401/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
