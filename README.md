@@ -119,6 +119,7 @@ Here are some ideas to get you started:
 | [3548-equal-sum-grid-partition-ii](https://github.com/Astro1401/Astro1401/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Astro1401/Astro1401/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Astro1401/Astro1401/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/Astro1401/Astro1401/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Astro1401/Astro1401/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Astro1401/Astro1401/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -338,6 +339,7 @@ Here are some ideas to get you started:
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Astro1401/Astro1401/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Astro1401/Astro1401/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Astro1401/Astro1401/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/Astro1401/Astro1401/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Astro1401/Astro1401/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Astro1401/Astro1401/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -484,11 +486,13 @@ Here are some ideas to get you started:
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Astro1401/Astro1401/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Astro1401/Astro1401/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Astro1401/Astro1401/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Astro1401/Astro1401/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Astro1401/Astro1401/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,6 +503,7 @@ Here are some ideas to get you started:
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -664,4 +669,12 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Astro1401/Astro1401/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
