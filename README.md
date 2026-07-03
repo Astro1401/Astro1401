@@ -619,6 +619,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Astro1401/Astro1401/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -661,6 +662,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Astro1401/Astro1401/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Astro1401/Astro1401/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Astro1401/Astro1401/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Astro1401/Astro1401/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -669,6 +671,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Astro1401/Astro1401/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Astro1401/Astro1401/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -683,4 +686,8 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
