@@ -623,6 +623,7 @@ Here are some ideas to get you started:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Astro1401/Astro1401/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -666,6 +667,7 @@ Here are some ideas to get you started:
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Astro1401/Astro1401/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Astro1401/Astro1401/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Astro1401/Astro1401/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -677,6 +679,7 @@ Here are some ideas to get you started:
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Astro1401/Astro1401/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Astro1401/Astro1401/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Astro1401/Astro1401/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -699,6 +702,7 @@ Here are some ideas to get you started:
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Astro1401/Astro1401/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Astro1401/Astro1401/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
