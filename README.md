@@ -440,6 +440,7 @@ Here are some ideas to get you started:
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Astro1401/Astro1401/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Astro1401/Astro1401/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Astro1401/Astro1401/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Sliding Window
@@ -499,6 +500,7 @@ Here are some ideas to get you started:
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Astro1401/Astro1401/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Astro1401/Astro1401/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -580,6 +582,7 @@ Here are some ideas to get you started:
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Astro1401/Astro1401/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -635,6 +638,7 @@ Here are some ideas to get you started:
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Astro1401/Astro1401/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Astro1401/Astro1401/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Astro1401/Astro1401/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Astro1401/Astro1401/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Monotonic Stack
