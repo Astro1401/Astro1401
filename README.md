@@ -232,6 +232,7 @@ Here are some ideas to get you started:
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Astro1401/Astro1401/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Astro1401/Astro1401/tree/main/0115-distinct-subsequences/) | Hard |
+| [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Astro1401/Astro1401/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Astro1401/Astro1401/tree/main/0242-valid-anagram/) | Easy |
@@ -363,6 +364,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Astro1401/Astro1401/tree/main/0013-roman-to-integer/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Astro1401/Astro1401/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Astro1401/Astro1401/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Astro1401/Astro1401/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -456,6 +458,7 @@ Here are some ideas to get you started:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0494-target-sum](https://github.com/Astro1401/Astro1401/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Astro1401/Astro1401/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -583,6 +586,7 @@ Here are some ideas to get you started:
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
