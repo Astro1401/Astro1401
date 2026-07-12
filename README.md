@@ -231,6 +231,7 @@ Here are some ideas to get you started:
 | [0013-roman-to-integer](https://github.com/Astro1401/Astro1401/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/Astro1401/Astro1401/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Astro1401/Astro1401/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Astro1401/Astro1401/tree/main/0115-distinct-subsequences/) | Hard |
