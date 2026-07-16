@@ -139,6 +139,7 @@ Here are some ideas to get you started:
 | [3742-maximum-path-score-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Astro1401/Astro1401/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Astro1401/Astro1401/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Astro1401/Astro1401/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -226,6 +227,7 @@ Here are some ideas to get you started:
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Astro1401/Astro1401/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Astro1401/Astro1401/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Astro1401/Astro1401/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +310,7 @@ Here are some ideas to get you started:
 | [3614-process-string-with-special-operations-ii](https://github.com/Astro1401/Astro1401/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Astro1401/Astro1401/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Astro1401/Astro1401/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -448,6 +451,7 @@ Here are some ideas to get you started:
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2540-minimum-common-value](https://github.com/Astro1401/Astro1401/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Astro1401/Astro1401/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -585,6 +589,7 @@ Here are some ideas to get you started:
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Astro1401/Astro1401/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Astro1401/Astro1401/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Astro1401/Astro1401/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Astro1401/Astro1401/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -750,4 +755,5 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Astro1401/Astro1401/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Astro1401/Astro1401/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
