@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Astro1401/Astro1401/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Astro1401/Astro1401/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Astro1401/Astro1401/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Astro1401/Astro1401/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Astro1401/Astro1401/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Astro1401/Astro1401/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -459,6 +460,7 @@ Here are some ideas to get you started:
 | [0142-linked-list-cycle-ii](https://github.com/Astro1401/Astro1401/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Astro1401/Astro1401/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
@@ -516,6 +518,7 @@ Here are some ideas to get you started:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Astro1401/Astro1401/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0476-number-complement](https://github.com/Astro1401/Astro1401/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/Astro1401/Astro1401/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Astro1401/Astro1401/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -526,6 +529,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Astro1401/Astro1401/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Astro1401/Astro1401/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/Astro1401/Astro1401/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/Astro1401/Astro1401/tree/main/0493-reverse-pairs/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Astro1401/Astro1401/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Astro1401/Astro1401/tree/main/1901-find-a-peak-element-ii/) | Medium |
