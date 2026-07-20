@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 | [0874-walking-robot-simulation](https://github.com/Astro1401/Astro1401/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Astro1401/Astro1401/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Astro1401/Astro1401/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Astro1401/Astro1401/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Astro1401/Astro1401/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -183,6 +184,7 @@ Here are some ideas to get you started:
 | [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Astro1401/Astro1401/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Astro1401/Astro1401/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Astro1401/Astro1401/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -308,6 +310,7 @@ Here are some ideas to get you started:
 | [0054-spiral-matrix](https://github.com/Astro1401/Astro1401/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Astro1401/Astro1401/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Astro1401/Astro1401/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Astro1401/Astro1401/tree/main/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Astro1401/Astro1401/tree/main/2069-walking-robot-simulation-ii/) | Medium |
