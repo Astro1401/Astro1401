@@ -305,6 +305,7 @@ Here are some ideas to get you started:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Astro1401/Astro1401/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Astro1401/Astro1401/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0206-reverse-linked-list/) | Easy |
@@ -739,6 +740,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Astro1401/Astro1401/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Astro1401/Astro1401/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Astro1401/Astro1401/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Astro1401/Astro1401/tree/main/0142-linked-list-cycle-ii/) | Medium |
