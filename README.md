@@ -224,6 +224,7 @@ Here are some ideas to get you started:
 | [0013-roman-to-integer](https://github.com/Astro1401/Astro1401/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Astro1401/Astro1401/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Astro1401/Astro1401/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/Astro1401/Astro1401/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Astro1401/Astro1401/tree/main/0062-unique-paths/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Astro1401/Astro1401/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Astro1401/Astro1401/tree/main/0396-rotate-function/) | Medium |
@@ -321,6 +322,7 @@ Here are some ideas to get you started:
 | [0025-reverse-nodes-in-k-group](https://github.com/Astro1401/Astro1401/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Astro1401/Astro1401/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/Astro1401/Astro1401/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
