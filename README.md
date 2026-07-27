@@ -100,6 +100,7 @@ Here are some ideas to get you started:
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Astro1401/Astro1401/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Astro1401/Astro1401/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Astro1401/Astro1401/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/Astro1401/Astro1401/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Astro1401/Astro1401/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Astro1401/Astro1401/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Astro1401/Astro1401/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -306,6 +307,7 @@ Here are some ideas to get you started:
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/Astro1401/Astro1401/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Astro1401/Astro1401/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/Astro1401/Astro1401/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Astro1401/Astro1401/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
