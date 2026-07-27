@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Astro1401/Astro1401/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Astro1401/Astro1401/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Astro1401/Astro1401/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Astro1401/Astro1401/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Astro1401/Astro1401/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -237,6 +238,7 @@ Here are some ideas to get you started:
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Astro1401/Astro1401/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Astro1401/Astro1401/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Astro1401/Astro1401/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1622-fancy-sequence](https://github.com/Astro1401/Astro1401/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/Astro1401/Astro1401/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -441,6 +443,7 @@ Here are some ideas to get you started:
 | [1331-rank-transform-of-an-array](https://github.com/Astro1401/Astro1401/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Astro1401/Astro1401/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Astro1401/Astro1401/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Astro1401/Astro1401/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Astro1401/Astro1401/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -469,6 +472,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Astro1401/Astro1401/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Astro1401/Astro1401/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Astro1401/Astro1401/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Astro1401/Astro1401/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Astro1401/Astro1401/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
