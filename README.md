@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 | [0040-combination-sum-ii](https://github.com/Astro1401/Astro1401/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Astro1401/Astro1401/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Astro1401/Astro1401/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Astro1401/Astro1401/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Astro1401/Astro1401/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Astro1401/Astro1401/tree/main/0054-spiral-matrix/) | Medium |
@@ -550,6 +551,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Astro1401/Astro1401/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Astro1401/Astro1401/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Astro1401/Astro1401/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Astro1401/Astro1401/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Astro1401/Astro1401/tree/main/0090-subsets-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
