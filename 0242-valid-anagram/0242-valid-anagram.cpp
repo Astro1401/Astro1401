@@ -1,25 +1,18 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char,int> mp1,mp2;
-        if(s.size() != t.size()) return false;
-        for(int i = 0; i<s.size(); i++){
-            mp1[s[i]]++;
+        if (s.length() != t.length()) return false;
+        
+        vector<int> vis(26,0);
+
+        for(int i = 0; i<s.length(); i++){
+            vis[s[i] - 'a']++;
         }
 
-         for(int i = 0; i<s.size(); i++){
-            mp2[t[i]]++;
-        }
-         
-         for(int i = 0; i<t.size(); i++){
-            if(mp2[s[i]] == mp1[s[i]]){
-                continue;
-            }
-
-            else{
-                return false;
-            }
-        }
+        for(int i = 0; i<t.length(); i++){
+            if(vis[t[i]-'a'] == 0) return false;
+            else vis[t[i] - 'a']--;
+        } 
         return true;
     }
 };
