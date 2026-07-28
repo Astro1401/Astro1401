@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 | [0027-remove-element](https://github.com/Astro1401/Astro1401/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Astro1401/Astro1401/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Astro1401/Astro1401/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/Astro1401/Astro1401/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Astro1401/Astro1401/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Astro1401/Astro1401/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Astro1401/Astro1401/tree/main/0042-trapping-rain-water/) | Hard |
@@ -203,6 +204,7 @@ Here are some ideas to get you started:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Astro1401/Astro1401/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Astro1401/Astro1401/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Astro1401/Astro1401/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Astro1401/Astro1401/tree/main/0063-unique-paths-ii/) | Medium |
@@ -435,6 +437,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Astro1401/Astro1401/tree/main/0013-roman-to-integer/) | Easy |
+| [0037-sudoku-solver](https://github.com/Astro1401/Astro1401/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Astro1401/Astro1401/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Astro1401/Astro1401/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
@@ -550,6 +553,7 @@ Here are some ideas to get you started:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Astro1401/Astro1401/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Astro1401/Astro1401/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Astro1401/Astro1401/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Astro1401/Astro1401/tree/main/0046-permutations/) | Medium |
