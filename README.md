@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 | [0045-jump-game-ii](https://github.com/Astro1401/Astro1401/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Astro1401/Astro1401/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Astro1401/Astro1401/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Astro1401/Astro1401/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Astro1401/Astro1401/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Astro1401/Astro1401/tree/main/0054-spiral-matrix/) | Medium |
@@ -285,6 +286,7 @@ Here are some ideas to get you started:
 | [0020-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/Astro1401/Astro1401/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/Astro1401/Astro1401/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Astro1401/Astro1401/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Astro1401/Astro1401/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
@@ -439,6 +441,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Astro1401/Astro1401/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/Astro1401/Astro1401/tree/main/0037-sudoku-solver/) | Hard |
+| [0049-group-anagrams](https://github.com/Astro1401/Astro1401/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Astro1401/Astro1401/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Astro1401/Astro1401/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
@@ -664,6 +667,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0015-3sum](https://github.com/Astro1401/Astro1401/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Astro1401/Astro1401/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Astro1401/Astro1401/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Astro1401/Astro1401/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Astro1401/Astro1401/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Astro1401/Astro1401/tree/main/0169-majority-element/) | Easy |
