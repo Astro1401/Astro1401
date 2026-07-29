@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 | [0287-find-the-duplicate-number](https://github.com/Astro1401/Astro1401/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Astro1401/Astro1401/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Astro1401/Astro1401/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Astro1401/Astro1401/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Astro1401/Astro1401/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -456,6 +457,7 @@ Here are some ideas to get you started:
 | [0205-isomorphic-strings](https://github.com/Astro1401/Astro1401/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Astro1401/Astro1401/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Astro1401/Astro1401/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Astro1401/Astro1401/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Astro1401/Astro1401/tree/main/0645-set-mismatch/) | Easy |
@@ -494,6 +496,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Astro1401/Astro1401/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Astro1401/Astro1401/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Astro1401/Astro1401/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -507,6 +510,7 @@ Here are some ideas to get you started:
 | [0053-maximum-subarray](https://github.com/Astro1401/Astro1401/tree/main/0053-maximum-subarray/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Astro1401/Astro1401/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/Astro1401/Astro1401/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/Astro1401/Astro1401/tree/main/0493-reverse-pairs/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Astro1401/Astro1401/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Astro1401/Astro1401/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -641,6 +645,7 @@ Here are some ideas to get you started:
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Astro1401/Astro1401/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -677,6 +682,7 @@ Here are some ideas to get you started:
 | [0169-majority-element](https://github.com/Astro1401/Astro1401/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Astro1401/Astro1401/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Astro1401/Astro1401/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Astro1401/Astro1401/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Astro1401/Astro1401/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -775,6 +781,7 @@ Here are some ideas to get you started:
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -892,4 +899,8 @@ Here are some ideas to get you started:
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Astro1401/Astro1401/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Astro1401/Astro1401/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
