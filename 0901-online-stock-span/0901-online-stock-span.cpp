@@ -1,23 +1,21 @@
 class StockSpanner {
 public:
-    stack<pair<int,int>> st;
-    int idx;
-    StockSpanner() {
-        idx = -1;
-    }
-    
-    int next(int price) {
-        idx++;
+    stack<pair<int,int>> st;   // {price, span}
 
-        while(!st.empty() && st.top().first <= price){
+    StockSpanner() {
+
+    }
+
+    int next(int price) {
+
+        int span = 1;
+
+        while (!st.empty() && st.top().first <= price) {
+            span += st.top().second;
             st.pop();
         }
-        int span;
 
-        if(st.empty()) span = idx + 1;
-        else span = idx - st.top().second;
-
-        st.push({price,idx});
+        st.push({price, span});
 
         return span;
     }
