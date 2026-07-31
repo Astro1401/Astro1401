@@ -4,7 +4,7 @@ public:
         int n1 = nums1.size();
         int n2 = nums2.size();
         
-        if(n2>n1) return intersect(nums2,nums1);
+        if(n2>n1) intersect(nums2,nums1);
         
         unordered_map<int,int> mp;
         vector<int> result;
