@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 | [0645-set-mismatch](https://github.com/Astro1401/Astro1401/tree/main/0645-set-mismatch/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Astro1401/Astro1401/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0724-find-pivot-index](https://github.com/Astro1401/Astro1401/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Astro1401/Astro1401/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Astro1401/Astro1401/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -605,6 +606,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Astro1401/Astro1401/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Astro1401/Astro1401/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Astro1401/Astro1401/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Astro1401/Astro1401/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Astro1401/Astro1401/tree/main/1732-find-the-highest-altitude/) | Easy |
