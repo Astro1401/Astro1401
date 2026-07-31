@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 | [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Astro1401/Astro1401/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Astro1401/Astro1401/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Astro1401/Astro1401/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Astro1401/Astro1401/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Astro1401/Astro1401/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -470,6 +471,7 @@ Here are some ideas to get you started:
 | [0242-valid-anagram](https://github.com/Astro1401/Astro1401/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Astro1401/Astro1401/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Astro1401/Astro1401/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Astro1401/Astro1401/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -552,6 +554,7 @@ Here are some ideas to get you started:
 | [0234-palindrome-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Astro1401/Astro1401/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Astro1401/Astro1401/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Astro1401/Astro1401/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Astro1401/Astro1401/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -636,6 +639,7 @@ Here are some ideas to get you started:
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Astro1401/Astro1401/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Astro1401/Astro1401/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Astro1401/Astro1401/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Astro1401/Astro1401/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0493-reverse-pairs](https://github.com/Astro1401/Astro1401/tree/main/0493-reverse-pairs/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Astro1401/Astro1401/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Astro1401/Astro1401/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -708,6 +712,7 @@ Here are some ideas to get you started:
 | [0242-valid-anagram](https://github.com/Astro1401/Astro1401/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Astro1401/Astro1401/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Astro1401/Astro1401/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Astro1401/Astro1401/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Astro1401/Astro1401/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
