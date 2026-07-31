@@ -202,6 +202,7 @@ Here are some ideas to get you started:
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Astro1401/Astro1401/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Astro1401/Astro1401/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Astro1401/Astro1401/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Astro1401/Astro1401/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -334,6 +335,7 @@ Here are some ideas to get you started:
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Astro1401/Astro1401/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Astro1401/Astro1401/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Astro1401/Astro1401/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Astro1401/Astro1401/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Astro1401/Astro1401/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Astro1401/Astro1401/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -484,6 +486,7 @@ Here are some ideas to get you started:
 | [2784-check-if-array-is-good](https://github.com/Astro1401/Astro1401/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Astro1401/Astro1401/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Astro1401/Astro1401/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Astro1401/Astro1401/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Astro1401/Astro1401/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Astro1401/Astro1401/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -507,6 +510,7 @@ Here are some ideas to get you started:
 | [1512-number-of-good-pairs](https://github.com/Astro1401/Astro1401/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Astro1401/Astro1401/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Astro1401/Astro1401/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Astro1401/Astro1401/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Astro1401/Astro1401/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Astro1401/Astro1401/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -717,6 +721,7 @@ Here are some ideas to get you started:
 | [2751-robot-collisions](https://github.com/Astro1401/Astro1401/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Astro1401/Astro1401/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Astro1401/Astro1401/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Astro1401/Astro1401/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Astro1401/Astro1401/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Astro1401/Astro1401/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Astro1401/Astro1401/tree/main/3536-maximum-product-of-two-digits/) | Easy |
