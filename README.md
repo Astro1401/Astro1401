@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 | [0416-partition-equal-subset-sum](https://github.com/Astro1401/Astro1401/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Astro1401/Astro1401/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
+| [0486-predict-the-winner](https://github.com/Astro1401/Astro1401/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Astro1401/Astro1401/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/Astro1401/Astro1401/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Astro1401/Astro1401/tree/main/0496-next-greater-element-i/) | Easy |
@@ -259,6 +260,7 @@ Here are some ideas to get you started:
 | [0258-add-digits](https://github.com/Astro1401/Astro1401/tree/main/0258-add-digits/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Astro1401/Astro1401/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Astro1401/Astro1401/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/Astro1401/Astro1401/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Astro1401/Astro1401/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Astro1401/Astro1401/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -370,6 +372,7 @@ Here are some ideas to get you started:
 | [0060-permutation-sequence](https://github.com/Astro1401/Astro1401/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/Astro1401/Astro1401/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1922-count-good-numbers](https://github.com/Astro1401/Astro1401/tree/main/1922-count-good-numbers/) | Medium |
@@ -423,6 +426,7 @@ Here are some ideas to get you started:
 | [0396-rotate-function](https://github.com/Astro1401/Astro1401/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Astro1401/Astro1401/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Astro1401/Astro1401/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0486-predict-the-winner](https://github.com/Astro1401/Astro1401/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Astro1401/Astro1401/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -970,4 +974,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Astro1401/Astro1401/tree/main/0901-online-stock-span/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Astro1401/Astro1401/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
