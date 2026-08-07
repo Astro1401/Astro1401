@@ -216,6 +216,7 @@ Here are some ideas to get you started:
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Astro1401/Astro1401/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Astro1401/Astro1401/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Astro1401/Astro1401/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Astro1401/Astro1401/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Astro1401/Astro1401/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Astro1401/Astro1401/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -289,6 +290,7 @@ Here are some ideas to get you started:
 | [3312-sorted-gcd-pair-queries](https://github.com/Astro1401/Astro1401/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Astro1401/Astro1401/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Astro1401/Astro1401/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Astro1401/Astro1401/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Astro1401/Astro1401/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Astro1401/Astro1401/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Astro1401/Astro1401/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -361,6 +363,7 @@ Here are some ideas to get you started:
 | [3093-longest-common-suffix-queries](https://github.com/Astro1401/Astro1401/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Astro1401/Astro1401/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Astro1401/Astro1401/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Astro1401/Astro1401/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Astro1401/Astro1401/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Astro1401/Astro1401/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Astro1401/Astro1401/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -625,6 +628,7 @@ Here are some ideas to get you started:
 | [0494-target-sum](https://github.com/Astro1401/Astro1401/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Astro1401/Astro1401/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Astro1401/Astro1401/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -971,6 +975,7 @@ Here are some ideas to get you started:
 | [2413-smallest-even-multiple](https://github.com/Astro1401/Astro1401/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Astro1401/Astro1401/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Astro1401/Astro1401/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Astro1401/Astro1401/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Astro1401/Astro1401/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Quickselect
