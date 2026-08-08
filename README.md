@@ -110,6 +110,7 @@ Here are some ideas to get you started:
 | [1480-running-sum-of-1d-array](https://github.com/Astro1401/Astro1401/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Astro1401/Astro1401/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Astro1401/Astro1401/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Astro1401/Astro1401/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Astro1401/Astro1401/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -456,6 +457,7 @@ Here are some ideas to get you started:
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Astro1401/Astro1401/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Astro1401/Astro1401/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1406-stone-game-iii/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Astro1401/Astro1401/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1871-jump-game-vii](https://github.com/Astro1401/Astro1401/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Astro1401/Astro1401/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -761,6 +763,7 @@ Here are some ideas to get you started:
 | [1331-rank-transform-of-an-array](https://github.com/Astro1401/Astro1401/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Astro1401/Astro1401/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Astro1401/Astro1401/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Astro1401/Astro1401/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Astro1401/Astro1401/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Astro1401/Astro1401/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Astro1401/Astro1401/tree/main/1840-maximum-building-height/) | Hard |
