@@ -272,6 +272,7 @@ Here are some ideas to get you started:
 | [0050-powx-n](https://github.com/Astro1401/Astro1401/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Astro1401/Astro1401/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Astro1401/Astro1401/tree/main/0062-unique-paths/) | Medium |
+| [0202-happy-number](https://github.com/Astro1401/Astro1401/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Astro1401/Astro1401/tree/main/0258-add-digits/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Astro1401/Astro1401/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0396-rotate-function](https://github.com/Astro1401/Astro1401/tree/main/0396-rotate-function/) | Medium |
@@ -517,6 +518,7 @@ Here are some ideas to get you started:
 | [0146-lru-cache](https://github.com/Astro1401/Astro1401/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Astro1401/Astro1401/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Astro1401/Astro1401/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Astro1401/Astro1401/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Astro1401/Astro1401/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Astro1401/Astro1401/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Astro1401/Astro1401/tree/main/0242-valid-anagram/) | Easy |
@@ -606,6 +608,7 @@ Here are some ideas to get you started:
 | [0142-linked-list-cycle-ii](https://github.com/Astro1401/Astro1401/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Astro1401/Astro1401/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/Astro1401/Astro1401/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Astro1401/Astro1401/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Astro1401/Astro1401/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -1055,4 +1058,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1510-stone-game-iv/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Astro1401/Astro1401/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
