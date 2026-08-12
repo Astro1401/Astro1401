@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 | [0503-next-greater-element-ii](https://github.com/Astro1401/Astro1401/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/Astro1401/Astro1401/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Astro1401/Astro1401/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Astro1401/Astro1401/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Astro1401/Astro1401/tree/main/0645-set-mismatch/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Astro1401/Astro1401/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -633,6 +634,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Astro1401/Astro1401/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/Astro1401/Astro1401/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Astro1401/Astro1401/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Astro1401/Astro1401/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Astro1401/Astro1401/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
