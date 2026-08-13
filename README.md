@@ -111,6 +111,7 @@ Here are some ideas to get you started:
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Astro1401/Astro1401/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Astro1401/Astro1401/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Astro1401/Astro1401/tree/main/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astro1401/Astro1401/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Astro1401/Astro1401/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Astro1401/Astro1401/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Astro1401/Astro1401/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -872,6 +873,7 @@ Here are some ideas to get you started:
 | [1021-remove-outermost-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Astro1401/Astro1401/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/Astro1401/Astro1401/tree/main/1106-parsing-a-boolean-expression/) | Hard |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astro1401/Astro1401/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Astro1401/Astro1401/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Astro1401/Astro1401/tree/main/2751-robot-collisions/) | Hard |
@@ -924,6 +926,7 @@ Here are some ideas to get you started:
 | [0503-next-greater-element-ii](https://github.com/Astro1401/Astro1401/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Astro1401/Astro1401/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Astro1401/Astro1401/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astro1401/Astro1401/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
