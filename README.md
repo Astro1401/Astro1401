@@ -136,6 +136,7 @@ Here are some ideas to get you started:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Astro1401/Astro1401/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Astro1401/Astro1401/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2029-stone-game-ix](https://github.com/Astro1401/Astro1401/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Astro1401/Astro1401/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Astro1401/Astro1401/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/Astro1401/Astro1401/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -218,6 +219,7 @@ Here are some ideas to get you started:
 | [1833-maximum-ice-cream-bars](https://github.com/Astro1401/Astro1401/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Astro1401/Astro1401/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Astro1401/Astro1401/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2029-stone-game-ix](https://github.com/Astro1401/Astro1401/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Astro1401/Astro1401/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Astro1401/Astro1401/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Astro1401/Astro1401/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -295,6 +297,7 @@ Here are some ideas to get you started:
 | [1903-largest-odd-number-in-string](https://github.com/Astro1401/Astro1401/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/Astro1401/Astro1401/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Astro1401/Astro1401/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/Astro1401/Astro1401/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Astro1401/Astro1401/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Astro1401/Astro1401/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Astro1401/Astro1401/tree/main/2469-convert-the-temperature/) | Easy |
@@ -581,6 +584,7 @@ Here are some ideas to get you started:
 | [0387-first-unique-character-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Astro1401/Astro1401/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2029-stone-game-ix](https://github.com/Astro1401/Astro1401/tree/main/2029-stone-game-ix/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Astro1401/Astro1401/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Astro1401/Astro1401/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Astro1401/Astro1401/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1052,20 +1056,24 @@ Here are some ideas to get you started:
 | [1140-stone-game-ii](https://github.com/Astro1401/Astro1401/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Astro1401/Astro1401/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Astro1401/Astro1401/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Astro1401/Astro1401/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Astro1401/Astro1401/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Astro1401/Astro1401/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Astro1401/Astro1401/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
