@@ -166,6 +166,7 @@ Here are some ideas to get you started:
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Astro1401/Astro1401/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Astro1401/Astro1401/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Astro1401/Astro1401/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/Astro1401/Astro1401/tree/main/3161-block-placement-queries/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -307,6 +308,7 @@ Here are some ideas to get you started:
 | [2469-convert-the-temperature](https://github.com/Astro1401/Astro1401/tree/main/2469-convert-the-temperature/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Astro1401/Astro1401/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Astro1401/Astro1401/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Astro1401/Astro1401/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Astro1401/Astro1401/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Astro1401/Astro1401/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -715,6 +717,7 @@ Here are some ideas to get you started:
 | [1009-complement-of-base-10-integer](https://github.com/Astro1401/Astro1401/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Astro1401/Astro1401/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Astro1401/Astro1401/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Astro1401/Astro1401/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Astro1401/Astro1401/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Astro1401/Astro1401/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Astro1401/Astro1401/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -731,6 +734,7 @@ Here are some ideas to get you started:
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Astro1401/Astro1401/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Astro1401/Astro1401/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/Astro1401/Astro1401/tree/main/2540-minimum-common-value/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Astro1401/Astro1401/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/Astro1401/Astro1401/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Astro1401/Astro1401/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -853,6 +857,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Astro1401/Astro1401/tree/main/0062-unique-paths/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Astro1401/Astro1401/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Astro1401/Astro1401/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Astro1401/Astro1401/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Breadth-First Search
@@ -1035,6 +1040,7 @@ Here are some ideas to get you started:
 | [0258-add-digits](https://github.com/Astro1401/Astro1401/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Astro1401/Astro1401/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Astro1401/Astro1401/tree/main/2413-smallest-even-multiple/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Astro1401/Astro1401/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Astro1401/Astro1401/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Astro1401/Astro1401/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Astro1401/Astro1401/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
