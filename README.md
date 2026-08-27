@@ -94,6 +94,7 @@ Here are some ideas to get you started:
 | [1043-partition-array-for-maximum-sum](https://github.com/Astro1401/Astro1401/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1046-last-stone-weight](https://github.com/Astro1401/Astro1401/tree/main/1046-last-stone-weight/) | Easy |
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Astro1401/Astro1401/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1051-height-checker](https://github.com/Astro1401/Astro1401/tree/main/1051-height-checker/) | Easy |
 | [1140-stone-game-ii](https://github.com/Astro1401/Astro1401/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Astro1401/Astro1401/tree/main/1260-shift-2d-grid/) | Easy |
@@ -494,6 +495,7 @@ Here are some ideas to get you started:
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Astro1401/Astro1401/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Astro1401/Astro1401/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Astro1401/Astro1401/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1140-stone-game-ii](https://github.com/Astro1401/Astro1401/tree/main/1140-stone-game-ii/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Astro1401/Astro1401/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -1123,4 +1125,12 @@ Here are some ideas to get you started:
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Astro1401/Astro1401/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Astro1401/Astro1401/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Astro1401/Astro1401/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1049-last-stone-weight-ii](https://github.com/Astro1401/Astro1401/tree/main/1049-last-stone-weight-ii/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1049-last-stone-weight-ii](https://github.com/Astro1401/Astro1401/tree/main/1049-last-stone-weight-ii/) | Medium |
 <!---LeetCode Topics End-->
