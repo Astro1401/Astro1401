@@ -244,6 +244,7 @@ Here are some ideas to get you started:
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Astro1401/Astro1401/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Astro1401/Astro1401/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Astro1401/Astro1401/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Astro1401/Astro1401/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +413,7 @@ Here are some ideas to get you started:
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Astro1401/Astro1401/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/Astro1401/Astro1401/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Astro1401/Astro1401/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Astro1401/Astro1401/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Astro1401/Astro1401/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -591,6 +593,7 @@ Here are some ideas to get you started:
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Astro1401/Astro1401/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Astro1401/Astro1401/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Astro1401/Astro1401/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Astro1401/Astro1401/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Astro1401/Astro1401/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Astro1401/Astro1401/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -612,6 +615,7 @@ Here are some ideas to get you started:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Astro1401/Astro1401/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Astro1401/Astro1401/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Astro1401/Astro1401/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Astro1401/Astro1401/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -869,6 +873,7 @@ Here are some ideas to get you started:
 | [3345-smallest-divisible-digit-product-i](https://github.com/Astro1401/Astro1401/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Astro1401/Astro1401/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Astro1401/Astro1401/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Astro1401/Astro1401/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
