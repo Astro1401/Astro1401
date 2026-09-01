@@ -1136,6 +1136,7 @@ Here are some ideas to get you started:
 | [1661-average-time-of-process-per-machine](https://github.com/Astro1401/Astro1401/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Astro1401/Astro1401/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Astro1401/Astro1401/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1934-confirmation-rate](https://github.com/Astro1401/Astro1401/tree/main/1934-confirmation-rate/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
