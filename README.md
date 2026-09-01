@@ -1138,6 +1138,7 @@ Here are some ideas to get you started:
 | [0595-big-countries](https://github.com/Astro1401/Astro1401/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/Astro1401/Astro1401/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/Astro1401/Astro1401/tree/main/1075-project-employees-i/) | Easy |
+| [1251-average-selling-price](https://github.com/Astro1401/Astro1401/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Astro1401/Astro1401/tree/main/1280-students-and-examinations/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Astro1401/Astro1401/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Astro1401/Astro1401/tree/main/1661-average-time-of-process-per-machine/) | Easy |
