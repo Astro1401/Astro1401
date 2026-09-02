@@ -207,6 +207,7 @@ Here are some ideas to get you started:
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Astro1401/Astro1401/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Astro1401/Astro1401/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Astro1401/Astro1401/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Astro1401/Astro1401/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -341,6 +342,7 @@ Here are some ideas to get you started:
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Astro1401/Astro1401/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Astro1401/Astro1401/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Astro1401/Astro1401/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
