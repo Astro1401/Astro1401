@@ -209,6 +209,7 @@ Here are some ideas to get you started:
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Astro1401/Astro1401/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Astro1401/Astro1401/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Astro1401/Astro1401/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Astro1401/Astro1401/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -734,6 +735,7 @@ Here are some ideas to get you started:
 | [3699-number-of-zigzag-arrays-i](https://github.com/Astro1401/Astro1401/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Astro1401/Astro1401/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/Astro1401/Astro1401/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
