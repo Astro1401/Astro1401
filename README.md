@@ -366,6 +366,7 @@ Here are some ideas to get you started:
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Astro1401/Astro1401/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Astro1401/Astro1401/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Astro1401/Astro1401/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Astro1401/Astro1401/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Astro1401/Astro1401/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -554,6 +555,7 @@ Here are some ideas to get you started:
 | [0037-sudoku-solver](https://github.com/Astro1401/Astro1401/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Astro1401/Astro1401/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Astro1401/Astro1401/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Astro1401/Astro1401/tree/main/0076-minimum-window-substring/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Astro1401/Astro1401/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -699,6 +701,7 @@ Here are some ideas to get you started:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/Astro1401/Astro1401/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Astro1401/Astro1401/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Astro1401/Astro1401/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Astro1401/Astro1401/tree/main/0643-maximum-average-subarray-i/) | Easy |
