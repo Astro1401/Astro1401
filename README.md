@@ -225,6 +225,7 @@ Here are some ideas to get you started:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Astro1401/Astro1401/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0135-candy](https://github.com/Astro1401/Astro1401/tree/main/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Astro1401/Astro1401/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/Astro1401/Astro1401/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Astro1401/Astro1401/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Astro1401/Astro1401/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Astro1401/Astro1401/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -377,6 +378,7 @@ Here are some ideas to get you started:
 | [0316-remove-duplicate-letters](https://github.com/Astro1401/Astro1401/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/Astro1401/Astro1401/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0402-remove-k-digits](https://github.com/Astro1401/Astro1401/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Astro1401/Astro1401/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -948,6 +950,7 @@ Here are some ideas to get you started:
 | [0232-implement-queue-using-stacks](https://github.com/Astro1401/Astro1401/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Astro1401/Astro1401/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/Astro1401/Astro1401/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Astro1401/Astro1401/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Astro1401/Astro1401/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Astro1401/Astro1401/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -1007,6 +1010,7 @@ Here are some ideas to get you started:
 | [0042-trapping-rain-water](https://github.com/Astro1401/Astro1401/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Astro1401/Astro1401/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Astro1401/Astro1401/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/Astro1401/Astro1401/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Astro1401/Astro1401/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Astro1401/Astro1401/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Astro1401/Astro1401/tree/main/0901-online-stock-span/) | Medium |
