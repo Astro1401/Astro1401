@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 | [0027-remove-element](https://github.com/Astro1401/Astro1401/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Astro1401/Astro1401/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Astro1401/Astro1401/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0036-valid-sudoku](https://github.com/Astro1401/Astro1401/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Astro1401/Astro1401/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Astro1401/Astro1401/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Astro1401/Astro1401/tree/main/0040-combination-sum-ii/) | Medium |
@@ -262,6 +263,7 @@ Here are some ideas to get you started:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Astro1401/Astro1401/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Astro1401/Astro1401/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Astro1401/Astro1401/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Astro1401/Astro1401/tree/main/0054-spiral-matrix/) | Medium |
@@ -557,6 +559,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Astro1401/Astro1401/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Astro1401/Astro1401/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/Astro1401/Astro1401/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Astro1401/Astro1401/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Astro1401/Astro1401/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Astro1401/Astro1401/tree/main/0073-set-matrix-zeroes/) | Medium |
