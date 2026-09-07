@@ -398,6 +398,7 @@ Here are some ideas to get you started:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Astro1401/Astro1401/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Astro1401/Astro1401/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Astro1401/Astro1401/tree/main/1106-parsing-a-boolean-expression/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/Astro1401/Astro1401/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Astro1401/Astro1401/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Astro1401/Astro1401/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Astro1401/Astro1401/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -526,6 +527,7 @@ Here are some ideas to get you started:
 | [1049-last-stone-weight-ii](https://github.com/Astro1401/Astro1401/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Astro1401/Astro1401/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1140-stone-game-ii](https://github.com/Astro1401/Astro1401/tree/main/1140-stone-game-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Astro1401/Astro1401/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Astro1401/Astro1401/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Astro1401/Astro1401/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Astro1401/Astro1401/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -1198,4 +1200,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1049-last-stone-weight-ii](https://github.com/Astro1401/Astro1401/tree/main/1049-last-stone-weight-ii/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Astro1401/Astro1401/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
