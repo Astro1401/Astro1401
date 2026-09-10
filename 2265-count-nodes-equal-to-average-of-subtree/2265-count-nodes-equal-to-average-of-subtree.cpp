@@ -1,30 +1,38 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    int count = 0;
-    
-    pair<int, int> postOrder(TreeNode* root) {
-        if (root == NULL) {
-            return {0, 0};
-        }
-        
-        // First iterate over left and right subtrees.
-        pair<int, int> left = postOrder(root->left);
-        pair<int, int> right = postOrder(root->right);
-        
-        int nodeSum = left.first + right.first + root->val;
-        int nodeCount = left.second + right.second + 1;
+    int result;
 
-        // Check if the average of the subtree is equal to the node value.
-        if (root->val == nodeSum / (nodeCount)) {
-            count++;
-        }
-        
-        // Return the sum of nodes and the count in the subtree.
-        return {nodeSum, nodeCount};
+    pair<int, int> solve(TreeNode* root){
+        if(!root) return {0,0};
+
+        auto p1 = solve(root->left);
+        auto p2 = solve(root->right);
+
+        int sum = p1.first + p2.first + root->val;
+        int cnt = 1 + p1.second + p2.second;
+
+        int avg = sum/cnt;
+
+        if(avg == root->val) result++;
+
+        return{sum,cnt};
     }
-    
     int averageOfSubtree(TreeNode* root) {
-        postOrder(root);
-        return count;
+        result = 0;
+
+        solve(root);
+
+        return result;
     }
 };
