@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Astro1401/Astro1401/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Astro1401/Astro1401/tree/main/0135-candy/) | Hard |
+| [0139-word-break](https://github.com/Astro1401/Astro1401/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Astro1401/Astro1401/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Astro1401/Astro1401/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/Astro1401/Astro1401/tree/main/0169-majority-element/) | Easy |
@@ -383,6 +384,7 @@ Here are some ideas to get you started:
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Astro1401/Astro1401/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Astro1401/Astro1401/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0139-word-break](https://github.com/Astro1401/Astro1401/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Astro1401/Astro1401/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Astro1401/Astro1401/tree/main/0242-valid-anagram/) | Easy |
@@ -513,6 +515,7 @@ Here are some ideas to get you started:
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Astro1401/Astro1401/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Astro1401/Astro1401/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Astro1401/Astro1401/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0139-word-break](https://github.com/Astro1401/Astro1401/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Astro1401/Astro1401/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Astro1401/Astro1401/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Astro1401/Astro1401/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -572,6 +575,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Astro1401/Astro1401/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/Astro1401/Astro1401/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -587,6 +591,7 @@ Here are some ideas to get you started:
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Astro1401/Astro1401/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/Astro1401/Astro1401/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Astro1401/Astro1401/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Astro1401/Astro1401/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Astro1401/Astro1401/tree/main/0146-lru-cache/) | Medium |
@@ -1003,6 +1008,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/Astro1401/Astro1401/tree/main/0139-word-break/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Astro1401/Astro1401/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Astro1401/Astro1401/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -1227,4 +1233,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Astro1401/Astro1401/tree/main/1143-longest-common-subsequence/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Astro1401/Astro1401/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
