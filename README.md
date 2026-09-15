@@ -310,6 +310,7 @@ Here are some ideas to get you started:
 | [0050-powx-n](https://github.com/Astro1401/Astro1401/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Astro1401/Astro1401/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Astro1401/Astro1401/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Astro1401/Astro1401/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Astro1401/Astro1401/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Astro1401/Astro1401/tree/main/0258-add-digits/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Astro1401/Astro1401/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -502,6 +503,7 @@ Here are some ideas to get you started:
 | [0062-unique-paths](https://github.com/Astro1401/Astro1401/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Astro1401/Astro1401/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/Astro1401/Astro1401/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Astro1401/Astro1401/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Astro1401/Astro1401/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Astro1401/Astro1401/tree/main/0118-pascals-triangle/) | Easy |
@@ -567,6 +569,7 @@ Here are some ideas to get you started:
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Astro1401/Astro1401/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
