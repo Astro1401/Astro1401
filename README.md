@@ -316,6 +316,7 @@ Here are some ideas to get you started:
 | [0486-predict-the-winner](https://github.com/Astro1401/Astro1401/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Astro1401/Astro1401/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Astro1401/Astro1401/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Astro1401/Astro1401/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Astro1401/Astro1401/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Astro1401/Astro1401/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -1039,6 +1040,7 @@ Here are some ideas to get you started:
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Astro1401/Astro1401/tree/main/0836-rectangle-overlap/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Astro1401/Astro1401/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
