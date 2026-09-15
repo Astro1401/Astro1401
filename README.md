@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 | [0064-minimum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Astro1401/Astro1401/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/Astro1401/Astro1401/tree/main/0078-subsets/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Astro1401/Astro1401/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Astro1401/Astro1401/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Astro1401/Astro1401/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Astro1401/Astro1401/tree/main/0090-subsets-ii/) | Medium |
@@ -815,6 +816,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Astro1401/Astro1401/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Astro1401/Astro1401/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Astro1401/Astro1401/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Astro1401/Astro1401/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0300-longest-increasing-subsequence/) | Medium |
