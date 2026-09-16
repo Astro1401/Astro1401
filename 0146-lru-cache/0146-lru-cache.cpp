@@ -53,7 +53,7 @@ public:
         deleteNode(resNode);
         addNode(resNode);
 
-        mp[key] = head->next;
+        //mp[key] = head->next;
 
         return ans;
     }
