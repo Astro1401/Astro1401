@@ -330,6 +330,7 @@ Here are some ideas to get you started:
 | [1406-stone-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1510-stone-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Astro1401/Astro1401/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Astro1401/Astro1401/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1622-fancy-sequence](https://github.com/Astro1401/Astro1401/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/Astro1401/Astro1401/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/Astro1401/Astro1401/tree/main/1872-stone-game-viii/) | Hard |
@@ -557,6 +558,7 @@ Here are some ideas to get you started:
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Astro1401/Astro1401/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1510-stone-game-iv/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Astro1401/Astro1401/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Astro1401/Astro1401/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/Astro1401/Astro1401/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Astro1401/Astro1401/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Astro1401/Astro1401/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -781,6 +783,7 @@ Here are some ideas to get you started:
 | [0724-find-pivot-index](https://github.com/Astro1401/Astro1401/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/Astro1401/Astro1401/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Astro1401/Astro1401/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Astro1401/Astro1401/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Astro1401/Astro1401/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Astro1401/Astro1401/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Astro1401/Astro1401/tree/main/1871-jump-game-vii/) | Medium |
@@ -958,6 +961,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Astro1401/Astro1401/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Astro1401/Astro1401/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Astro1401/Astro1401/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Astro1401/Astro1401/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Astro1401/Astro1401/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
