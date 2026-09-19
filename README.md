@@ -1052,6 +1052,7 @@ Here are some ideas to get you started:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Astro1401/Astro1401/tree/main/0695-max-area-of-island/) | Medium |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Astro1401/Astro1401/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Astro1401/Astro1401/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -1117,6 +1118,7 @@ Here are some ideas to get you started:
 | [0173-binary-search-tree-iterator](https://github.com/Astro1401/Astro1401/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Astro1401/Astro1401/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Astro1401/Astro1401/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Astro1401/Astro1401/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Astro1401/Astro1401/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -1130,6 +1132,7 @@ Here are some ideas to get you started:
 | [0173-binary-search-tree-iterator](https://github.com/Astro1401/Astro1401/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Astro1401/Astro1401/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Astro1401/Astro1401/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Astro1401/Astro1401/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Counting Sort
@@ -1261,4 +1264,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Astro1401/Astro1401/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Astro1401/Astro1401/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
