@@ -162,6 +162,7 @@ Here are some ideas to get you started:
 | [2161-partition-array-according-to-given-pivot](https://github.com/Astro1401/Astro1401/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Astro1401/Astro1401/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Astro1401/Astro1401/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Astro1401/Astro1401/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Astro1401/Astro1401/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -299,6 +300,7 @@ Here are some ideas to get you started:
 | [1901-find-a-peak-element-ii](https://github.com/Astro1401/Astro1401/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Astro1401/Astro1401/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Astro1401/Astro1401/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Astro1401/Astro1401/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -576,6 +578,7 @@ Here are some ideas to get you started:
 | [1871-jump-game-vii](https://github.com/Astro1401/Astro1401/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Astro1401/Astro1401/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Astro1401/Astro1401/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Astro1401/Astro1401/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Astro1401/Astro1401/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -600,6 +603,7 @@ Here are some ideas to get you started:
 | [0139-word-break](https://github.com/Astro1401/Astro1401/tree/main/0139-word-break/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0509-fibonacci-number](https://github.com/Astro1401/Astro1401/tree/main/0509-fibonacci-number/) | Easy |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -867,6 +871,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Astro1401/Astro1401/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Astro1401/Astro1401/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -997,6 +1002,7 @@ Here are some ideas to get you started:
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Astro1401/Astro1401/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Astro1401/Astro1401/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -1075,6 +1081,7 @@ Here are some ideas to get you started:
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Astro1401/Astro1401/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Astro1401/Astro1401/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Astro1401/Astro1401/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Astro1401/Astro1401/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Astro1401/Astro1401/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -1163,6 +1170,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
