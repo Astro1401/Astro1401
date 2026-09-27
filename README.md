@@ -434,6 +434,7 @@ Here are some ideas to get you started:
 | [1096-brace-expansion-ii](https://github.com/Astro1401/Astro1401/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Astro1401/Astro1401/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Astro1401/Astro1401/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Astro1401/Astro1401/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Astro1401/Astro1401/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Astro1401/Astro1401/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -1060,6 +1061,7 @@ Here are some ideas to get you started:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Astro1401/Astro1401/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Astro1401/Astro1401/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1106-parsing-a-boolean-expression](https://github.com/Astro1401/Astro1401/tree/main/1106-parsing-a-boolean-expression/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astro1401/Astro1401/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Astro1401/Astro1401/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -1324,4 +1326,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
