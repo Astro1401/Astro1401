@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 | [0090-subsets-ii](https://github.com/Astro1401/Astro1401/tree/main/0090-subsets-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Astro1401/Astro1401/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/Astro1401/Astro1401/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Astro1401/Astro1401/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Astro1401/Astro1401/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Astro1401/Astro1401/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Astro1401/Astro1401/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -542,6 +543,7 @@ Here are some ideas to get you started:
 | [0097-interleaving-string](https://github.com/Astro1401/Astro1401/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Astro1401/Astro1401/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Astro1401/Astro1401/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Astro1401/Astro1401/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Astro1401/Astro1401/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Astro1401/Astro1401/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Astro1401/Astro1401/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
