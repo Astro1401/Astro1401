@@ -43,8 +43,9 @@ public:
 
         ListNode* right = mid->next;
         mid->next = NULL;
+        ListNode* left = head;
 
-        ListNode* left = sortList(head);
+        left = sortList(left);
         right = sortList(right);
 
         return merge(left, right);
