@@ -167,6 +167,7 @@ Here are some ideas to get you started:
 | [2161-partition-array-according-to-given-pivot](https://github.com/Astro1401/Astro1401/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Astro1401/Astro1401/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Astro1401/Astro1401/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Astro1401/Astro1401/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Astro1401/Astro1401/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -309,6 +310,7 @@ Here are some ideas to get you started:
 | [1901-find-a-peak-element-ii](https://github.com/Astro1401/Astro1401/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Astro1401/Astro1401/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Astro1401/Astro1401/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Astro1401/Astro1401/tree/main/2906-construct-product-matrix/) | Medium |
@@ -597,6 +599,7 @@ Here are some ideas to get you started:
 | [1871-jump-game-vii](https://github.com/Astro1401/Astro1401/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Astro1401/Astro1401/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Astro1401/Astro1401/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Astro1401/Astro1401/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Astro1401/Astro1401/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Astro1401/Astro1401/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -1349,4 +1352,5 @@ Here are some ideas to get you started:
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Astro1401/Astro1401/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Astro1401/Astro1401/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
