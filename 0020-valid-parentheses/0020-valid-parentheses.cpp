@@ -7,6 +7,7 @@ public:
             if(s[i] == '(' || s[i] == '{' || s[i] == '['){
                 st.push(s[i]);
             }
+            
             else {
                 if(st.empty()) return false;
 
