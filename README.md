@@ -403,6 +403,7 @@ Here are some ideas to get you started:
 | [0013-roman-to-integer](https://github.com/Astro1401/Astro1401/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/Astro1401/Astro1401/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Astro1401/Astro1401/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
@@ -536,6 +537,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Astro1401/Astro1401/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Astro1401/Astro1401/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Astro1401/Astro1401/tree/main/0045-jump-game-ii/) | Medium |
@@ -814,6 +816,7 @@ Here are some ideas to get you started:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Astro1401/Astro1401/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Astro1401/Astro1401/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Astro1401/Astro1401/tree/main/0040-combination-sum-ii/) | Medium |
@@ -1350,6 +1353,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Astro1401/Astro1401/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
