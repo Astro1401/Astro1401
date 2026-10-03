@@ -404,6 +404,7 @@ Here are some ideas to get you started:
 | [0014-longest-common-prefix](https://github.com/Astro1401/Astro1401/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Astro1401/Astro1401/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Astro1401/Astro1401/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
@@ -538,6 +539,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Astro1401/Astro1401/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Astro1401/Astro1401/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Astro1401/Astro1401/tree/main/0045-jump-game-ii/) | Medium |
@@ -1061,6 +1063,7 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Astro1401/Astro1401/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Astro1401/Astro1401/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -1354,6 +1357,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Astro1401/Astro1401/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
