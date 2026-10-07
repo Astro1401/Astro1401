@@ -420,6 +420,7 @@ Here are some ideas to get you started:
 | [0151-reverse-words-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Astro1401/Astro1401/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Astro1401/Astro1401/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Astro1401/Astro1401/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/Astro1401/Astro1401/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Astro1401/Astro1401/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -829,6 +830,7 @@ Here are some ideas to get you started:
 | [0090-subsets-ii](https://github.com/Astro1401/Astro1401/tree/main/0090-subsets-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Astro1401/Astro1401/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Astro1401/Astro1401/tree/main/0494-target-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Astro1401/Astro1401/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Astro1401/Astro1401/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -1041,6 +1043,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0200-number-of-islands](https://github.com/Astro1401/Astro1401/tree/main/0200-number-of-islands/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Astro1401/Astro1401/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
