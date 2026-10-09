@@ -484,6 +484,7 @@ Here are some ideas to get you started:
 | [3093-longest-common-suffix-queries](https://github.com/Astro1401/Astro1401/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Astro1401/Astro1401/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Astro1401/Astro1401/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Astro1401/Astro1401/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Astro1401/Astro1401/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Astro1401/Astro1401/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Astro1401/Astro1401/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -842,6 +843,7 @@ Here are some ideas to get you started:
 | [1096-brace-expansion-ii](https://github.com/Astro1401/Astro1401/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Astro1401/Astro1401/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Astro1401/Astro1401/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Astro1401/Astro1401/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Astro1401/Astro1401/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -884,6 +886,7 @@ Here are some ideas to get you started:
 | [1386-cinema-seat-allocation](https://github.com/Astro1401/Astro1401/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Astro1401/Astro1401/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Astro1401/Astro1401/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Astro1401/Astro1401/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Astro1401/Astro1401/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Astro1401/Astro1401/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Astro1401/Astro1401/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
