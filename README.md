@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 | [0169-majority-element](https://github.com/Astro1401/Astro1401/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Astro1401/Astro1401/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0200-number-of-islands](https://github.com/Astro1401/Astro1401/tree/main/0200-number-of-islands/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Astro1401/Astro1401/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Astro1401/Astro1401/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Astro1401/Astro1401/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Astro1401/Astro1401/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -832,6 +833,7 @@ Here are some ideas to get you started:
 | [0090-subsets-ii](https://github.com/Astro1401/Astro1401/tree/main/0090-subsets-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Astro1401/Astro1401/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Astro1401/Astro1401/tree/main/0216-combination-sum-iii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Astro1401/Astro1401/tree/main/0494-target-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Astro1401/Astro1401/tree/main/1096-brace-expansion-ii/) | Hard |
