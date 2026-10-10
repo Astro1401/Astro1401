@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Astro1401/Astro1401/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Astro1401/Astro1401/tree/main/0135-candy/) | Hard |
+| [0136-single-number](https://github.com/Astro1401/Astro1401/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/Astro1401/Astro1401/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Astro1401/Astro1401/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Astro1401/Astro1401/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -883,6 +884,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0078-subsets](https://github.com/Astro1401/Astro1401/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Astro1401/Astro1401/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/Astro1401/Astro1401/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Astro1401/Astro1401/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0476-number-complement](https://github.com/Astro1401/Astro1401/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/Astro1401/Astro1401/tree/main/0645-set-mismatch/) | Easy |
