@@ -5,16 +5,20 @@ public:
     }
     
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
+        
         sort(intervals.begin(),intervals.end(),comp);
-        int cnt = 1;
+        
+        int cnt = 0;
         int lastendtime = intervals[0][1];
         int n = intervals.size();
+        
         for(int i = 1; i<n; i++){
-            if(intervals[i][0] >= lastendtime){
+            if (intervals[i][0] < lastendtime) {
                 cnt++;
+            } else {
                 lastendtime = intervals[i][1];
             }
         }
-        return n - cnt;
+        return cnt;
     }
 };
