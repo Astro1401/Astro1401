@@ -15,7 +15,9 @@ public:
         for(int i = 1; i<n; i++){
             if (intervals[i][0] < lastendtime) {
                 cnt++;
-            } else {
+            } 
+            
+            else {
                 lastendtime = intervals[i][1];
             }
         }
