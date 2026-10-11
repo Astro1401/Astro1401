@@ -172,6 +172,7 @@ Here are some ideas to get you started:
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Astro1401/Astro1401/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Astro1401/Astro1401/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Astro1401/Astro1401/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Astro1401/Astro1401/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Astro1401/Astro1401/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -272,6 +273,7 @@ Here are some ideas to get you started:
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Astro1401/Astro1401/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Astro1401/Astro1401/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Astro1401/Astro1401/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Astro1401/Astro1401/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Astro1401/Astro1401/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Astro1401/Astro1401/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -914,6 +916,7 @@ Here are some ideas to get you started:
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Astro1401/Astro1401/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Astro1401/Astro1401/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Astro1401/Astro1401/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Astro1401/Astro1401/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/Astro1401/Astro1401/tree/main/2540-minimum-common-value/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Astro1401/Astro1401/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/Astro1401/Astro1401/tree/main/3161-block-placement-queries/) | Hard |
@@ -952,6 +955,7 @@ Here are some ideas to get you started:
 | [1046-last-stone-weight](https://github.com/Astro1401/Astro1401/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Astro1401/Astro1401/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Astro1401/Astro1401/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Astro1401/Astro1401/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Astro1401/Astro1401/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -1019,6 +1023,7 @@ Here are some ideas to get you started:
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Astro1401/Astro1401/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Astro1401/Astro1401/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Astro1401/Astro1401/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Astro1401/Astro1401/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Astro1401/Astro1401/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Astro1401/Astro1401/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2751-robot-collisions](https://github.com/Astro1401/Astro1401/tree/main/2751-robot-collisions/) | Hard |
