@@ -165,6 +165,7 @@ Here are some ideas to get you started:
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Astro1401/Astro1401/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Astro1401/Astro1401/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Astro1401/Astro1401/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Astro1401/Astro1401/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Astro1401/Astro1401/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Astro1401/Astro1401/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Astro1401/Astro1401/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -1126,6 +1127,7 @@ Here are some ideas to get you started:
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astro1401/Astro1401/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Astro1401/Astro1401/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/Astro1401/Astro1401/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Astro1401/Astro1401/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Astro1401/Astro1401/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Indexed Tree
@@ -1189,6 +1191,7 @@ Here are some ideas to get you started:
 | [0907-sum-of-subarray-minimums](https://github.com/Astro1401/Astro1401/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Astro1401/Astro1401/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astro1401/Astro1401/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/Astro1401/Astro1401/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
