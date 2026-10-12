@@ -105,6 +105,7 @@ Here are some ideas to get you started:
 | [0860-lemonade-change](https://github.com/Astro1401/Astro1401/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Astro1401/Astro1401/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/Astro1401/Astro1401/tree/main/0877-stone-game/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Astro1401/Astro1401/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Astro1401/Astro1401/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Astro1401/Astro1401/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -598,6 +599,7 @@ Here are some ideas to get you started:
 | [0678-valid-parenthesis-string](https://github.com/Astro1401/Astro1401/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Astro1401/Astro1401/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0877-stone-game](https://github.com/Astro1401/Astro1401/tree/main/0877-stone-game/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Astro1401/Astro1401/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Astro1401/Astro1401/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/Astro1401/Astro1401/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -1113,6 +1115,7 @@ Here are some ideas to get you started:
 | [0735-asteroid-collision](https://github.com/Astro1401/Astro1401/tree/main/0735-asteroid-collision/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/Astro1401/Astro1401/tree/main/0901-online-stock-span/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Astro1401/Astro1401/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Astro1401/Astro1401/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Astro1401/Astro1401/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Astro1401/Astro1401/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -1183,6 +1186,7 @@ Here are some ideas to get you started:
 | [0496-next-greater-element-i](https://github.com/Astro1401/Astro1401/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Astro1401/Astro1401/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Astro1401/Astro1401/tree/main/0901-online-stock-span/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/Astro1401/Astro1401/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Astro1401/Astro1401/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astro1401/Astro1401/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Geometry
