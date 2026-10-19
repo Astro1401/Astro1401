@@ -4,15 +4,12 @@ public:
         
         int n = grid.size();
         if (grid[0][0] == 1 || grid[n-1][n-1] == 1) return -1;
-        
-        pair<int,int> source = {0,0};
-        pair<int,int> destination = {n-1,n-1};
-        
+         
         queue<pair<int , pair<int,int>>> q;
         vector<vector<int>> dist(n, vector<int>(n,1e9));
         
-        dist[source.first][source.second] = 1;
-        q.push({1, {source.first, source.second}});
+        dist[0][0] = 1;
+        q.push({1, {0,0}});
         
         int dr[] = {-1,-1,0,1,1,1,0,-1};
         int dc[] = {0,1,1,1,0,-1,-1,-1};
@@ -32,9 +29,8 @@ public:
                 int newc = c + dc[i];
 
                 if(newr >= 0 && newr < n && newc >= 0 && newc < n && grid[newr][newc] == 0 &&
-                   dis + 1 < dist[newr][newc]){
-                    dist[newr][newc]= 1 + dis;
-                    //if(newr == destination.first && newc == destination.second) return dis+1;
+                    dis + 1 < dist[newr][newc]){
+                    dist[newr][newc] = 1 + dis;
                     q.push({1+dis,{newr,newc}});
                    }
             }
