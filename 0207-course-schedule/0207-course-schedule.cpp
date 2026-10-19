@@ -12,19 +12,19 @@ public:
         }
 
         queue<int> q;
-        for (int i = 0; i < numCourses; i++) {
-            if (indegree[i] == 0) {
-                q.push(i);
-            }
-        }
 
-        int count = 0;
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) q.push(i);
+        }
+        
+        vector<int> topo;
 
         while (!q.empty()) {
             int node = q.front();
             q.pop();
-            count++;
+            topo.push_back(node);
 
+            
             for (auto it : adj[node]) {
                 indegree[it]--;
                 if (indegree[it] == 0) {
@@ -33,6 +33,7 @@ public:
             }
         }
 
-        return count == numCourses;
+        if(topo.size() == numCourses) return true;
+        return false;
     }
 };
