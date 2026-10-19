@@ -114,6 +114,7 @@ Here are some ideas to get you started:
 | [1048-longest-string-chain](https://github.com/Astro1401/Astro1401/tree/main/1048-longest-string-chain/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Astro1401/Astro1401/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1051-height-checker](https://github.com/Astro1401/Astro1401/tree/main/1051-height-checker/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1140-stone-game-ii](https://github.com/Astro1401/Astro1401/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Astro1401/Astro1401/tree/main/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Astro1401/Astro1401/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -317,6 +318,7 @@ Here are some ideas to get you started:
 | [0417-pacific-atlantic-water-flow](https://github.com/Astro1401/Astro1401/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Astro1401/Astro1401/tree/main/0695-max-area-of-island/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Astro1401/Astro1401/tree/main/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Astro1401/Astro1401/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Astro1401/Astro1401/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -1103,6 +1105,7 @@ Here are some ideas to get you started:
 | [0417-pacific-atlantic-water-flow](https://github.com/Astro1401/Astro1401/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Astro1401/Astro1401/tree/main/0695-max-area-of-island/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Astro1401/Astro1401/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1345-jump-game-iv/) | Hard |
