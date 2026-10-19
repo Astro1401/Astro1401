@@ -957,6 +957,7 @@ Here are some ideas to get you started:
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Astro1401/Astro1401/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Astro1401/Astro1401/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -1095,6 +1096,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Astro1401/Astro1401/tree/main/0126-word-ladder-ii/) | Hard |
 | [0200-number-of-islands](https://github.com/Astro1401/Astro1401/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Astro1401/Astro1401/tree/main/0207-course-schedule/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Astro1401/Astro1401/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Astro1401/Astro1401/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -1187,6 +1189,7 @@ Here are some ideas to get you started:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Astro1401/Astro1401/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/Astro1401/Astro1401/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Astro1401/Astro1401/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Astro1401/Astro1401/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -1293,6 +1296,7 @@ Here are some ideas to get you started:
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Astro1401/Astro1401/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -1423,6 +1427,7 @@ Here are some ideas to get you started:
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Astro1401/Astro1401/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
