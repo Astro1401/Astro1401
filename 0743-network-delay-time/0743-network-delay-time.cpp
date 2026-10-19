@@ -1,18 +1,15 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& flights, int n, int src) {
-        
-        int K = n;   // dummy, only to keep your logic unchanged
-        int dst = -1; // unused, kept so structure stays same
-        
+ 
         vector<vector<pair<int,int>>> adj(n + 1);
         for (auto it : flights) {
             adj[it[0]].push_back({it[1], it[2]});
         }
 
-        queue<pair<int, pair<int,int>>> q;
-        // {steps, {node, dist}}
-        q.push({0, {src, 0}});
+        queue<pair<int,int>> q;
+
+        q.push({src, 0});
 
         vector<int> dist(n + 1, 1e9);
         dist[src] = 0;
@@ -21,9 +18,8 @@ public:
             auto it = q.front();
             q.pop();
 
-            int steps = it.first;
-            int node = it.second.first;
-            int cost = it.second.second;
+            int node = it.first;
+            int cost = it.second;
 
             for (auto it : adj[node]) {
                 int adjNode = it.first;
@@ -31,7 +27,7 @@ public:
 
                 if (cost + edw < dist[adjNode]) {
                     dist[adjNode] = cost + edw;
-                    q.push({steps + 1, {adjNode, cost + edw}});
+                    q.push({adjNode, cost + edw});
                 }
             }
         }
