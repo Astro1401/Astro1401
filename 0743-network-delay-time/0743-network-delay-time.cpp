@@ -11,7 +11,7 @@ public:
         }
 
         queue<pair<int, pair<int,int>>> q;
-        // {stops, {node, dist}}
+        // {steps, {node, dist}}
         q.push({0, {src, 0}});
 
         vector<int> dist(n + 1, 1e9);
@@ -21,19 +21,17 @@ public:
             auto it = q.front();
             q.pop();
 
-            int stops = it.first;
+            int steps = it.first;
             int node = it.second.first;
             int cost = it.second.second;
-
-            //if (stops > K) continue;
 
             for (auto it : adj[node]) {
                 int adjNode = it.first;
                 int edw = it.second;
 
-                if (cost + edw < dist[adjNode] && stops <= K) {
+                if (cost + edw < dist[adjNode]) {
                     dist[adjNode] = cost + edw;
-                    q.push({stops + 1, {adjNode, cost + edw}});
+                    q.push({steps + 1, {adjNode, cost + edw}});
                 }
             }
         }
