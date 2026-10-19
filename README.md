@@ -102,6 +102,7 @@ Here are some ideas to get you started:
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Astro1401/Astro1401/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/Astro1401/Astro1401/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Astro1401/Astro1401/tree/main/0735-asteroid-collision/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Astro1401/Astro1401/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0860-lemonade-change](https://github.com/Astro1401/Astro1401/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Astro1401/Astro1401/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/Astro1401/Astro1401/tree/main/0877-stone-game/) | Medium |
@@ -317,6 +318,7 @@ Here are some ideas to get you started:
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Astro1401/Astro1401/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Astro1401/Astro1401/tree/main/0695-max-area-of-island/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Astro1401/Astro1401/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Astro1401/Astro1401/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Astro1401/Astro1401/tree/main/1260-shift-2d-grid/) | Easy |
@@ -828,6 +830,7 @@ Here are some ideas to get you started:
 | [0128-longest-consecutive-sequence](https://github.com/Astro1401/Astro1401/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Astro1401/Astro1401/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Astro1401/Astro1401/tree/main/0695-max-area-of-island/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Astro1401/Astro1401/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Astro1401/Astro1401/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Astro1401/Astro1401/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -937,6 +940,7 @@ Here are some ideas to get you started:
 | [0349-intersection-of-two-arrays](https://github.com/Astro1401/Astro1401/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Astro1401/Astro1401/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0493-reverse-pairs](https://github.com/Astro1401/Astro1401/tree/main/0493-reverse-pairs/) | Hard |
+| [0778-swim-in-rising-water](https://github.com/Astro1401/Astro1401/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Astro1401/Astro1401/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Astro1401/Astro1401/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Astro1401/Astro1401/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -982,6 +986,7 @@ Here are some ideas to get you started:
 | [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0743-network-delay-time](https://github.com/Astro1401/Astro1401/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Astro1401/Astro1401/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1046-last-stone-weight](https://github.com/Astro1401/Astro1401/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Astro1401/Astro1401/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -1108,6 +1113,7 @@ Here are some ideas to get you started:
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Astro1401/Astro1401/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Astro1401/Astro1401/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Astro1401/Astro1401/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Astro1401/Astro1401/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
@@ -1202,6 +1208,7 @@ Here are some ideas to get you started:
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Astro1401/Astro1401/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Astro1401/Astro1401/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Astro1401/Astro1401/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Astro1401/Astro1401/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -1366,6 +1373,7 @@ Here are some ideas to get you started:
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/Astro1401/Astro1401/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1140-stone-game-ii](https://github.com/Astro1401/Astro1401/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/Astro1401/Astro1401/tree/main/1872-stone-game-viii/) | Hard |
@@ -1460,4 +1468,5 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Astro1401/Astro1401/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Astro1401/Astro1401/tree/main/0778-swim-in-rising-water/) | Hard |
 <!---LeetCode Topics End-->
