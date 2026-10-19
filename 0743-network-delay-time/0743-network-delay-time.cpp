@@ -1,32 +1,37 @@
 class Solution {
 public:
-    int networkDelayTime(vector<vector<int>>& times, int n, int k) {
+    int networkDelayTime(vector<vector<int>>& flights, int n, int src) {
+        
+        int K = n;   // dummy, only to keep your logic unchanged
+        int dst = -1; // unused, kept so structure stays same
         
         vector<vector<pair<int,int>>> adj(n + 1);
-        for (auto &it : times) {
+        for (auto it : flights) {
             adj[it[0]].push_back({it[1], it[2]});
         }
 
         queue<pair<int, pair<int,int>>> q;
-        // {stops, {node, cost}}
-        q.push({0, {k, 0}});
+        // {stops, {node, dist}}
+        q.push({0, {src, 0}});
 
         vector<int> dist(n + 1, 1e9);
-        dist[k] = 0;
+        dist[src] = 0;
 
         while (!q.empty()) {
             auto it = q.front();
             q.pop();
 
             int stops = it.first;
-            int node  = it.second.first;
-            int cost  = it.second.second;
+            int node = it.second.first;
+            int cost = it.second.second;
 
-            for (auto iter : adj[node]) {
-                int adjNode = iter.first;
-                int edw     = iter.second;
+            //if (stops > K) continue;
 
-                if (cost + edw < dist[adjNode]) {
+            for (auto it : adj[node]) {
+                int adjNode = it.first;
+                int edw = it.second;
+
+                if (cost + edw < dist[adjNode] && stops <= K) {
                     dist[adjNode] = cost + edw;
                     q.push({stops + 1, {adjNode, cost + edw}});
                 }
