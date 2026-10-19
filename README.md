@@ -961,6 +961,7 @@ Here are some ideas to get you started:
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Astro1401/Astro1401/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Astro1401/Astro1401/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0743-network-delay-time](https://github.com/Astro1401/Astro1401/tree/main/0743-network-delay-time/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Astro1401/Astro1401/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Astro1401/Astro1401/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -980,6 +981,7 @@ Here are some ideas to get you started:
 | [0239-sliding-window-maximum](https://github.com/Astro1401/Astro1401/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Astro1401/Astro1401/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Astro1401/Astro1401/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0743-network-delay-time](https://github.com/Astro1401/Astro1401/tree/main/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/Astro1401/Astro1401/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Astro1401/Astro1401/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -1105,6 +1107,7 @@ Here are some ideas to get you started:
 | [0417-pacific-atlantic-water-flow](https://github.com/Astro1401/Astro1401/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Astro1401/Astro1401/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/Astro1401/Astro1401/tree/main/0743-network-delay-time/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Astro1401/Astro1401/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
@@ -1198,6 +1201,7 @@ Here are some ideas to get you started:
 | [0417-pacific-atlantic-water-flow](https://github.com/Astro1401/Astro1401/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Astro1401/Astro1401/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Astro1401/Astro1401/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/Astro1401/Astro1401/tree/main/0743-network-delay-time/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Astro1401/Astro1401/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -1306,6 +1310,7 @@ Here are some ideas to get you started:
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/Astro1401/Astro1401/tree/main/0743-network-delay-time/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Astro1401/Astro1401/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Binary Search Tree
@@ -1451,4 +1456,8 @@ Here are some ideas to get you started:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Astro1401/Astro1401/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Astro1401/Astro1401/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
