@@ -146,6 +146,7 @@ Here are some ideas to get you started:
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Astro1401/Astro1401/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Astro1401/Astro1401/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Astro1401/Astro1401/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1765-map-of-highest-peak](https://github.com/Astro1401/Astro1401/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/Astro1401/Astro1401/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Astro1401/Astro1401/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Astro1401/Astro1401/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -324,6 +325,7 @@ Here are some ideas to get you started:
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Astro1401/Astro1401/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Astro1401/Astro1401/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Astro1401/Astro1401/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/Astro1401/Astro1401/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Astro1401/Astro1401/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Astro1401/Astro1401/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -1103,6 +1105,7 @@ Here are some ideas to get you started:
 | [1306-jump-game-iii](https://github.com/Astro1401/Astro1401/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Astro1401/Astro1401/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/Astro1401/Astro1401/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Astro1401/Astro1401/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Astro1401/Astro1401/tree/main/2685-count-the-number-of-complete-components/) | Medium |
