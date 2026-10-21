@@ -524,6 +524,7 @@ Here are some ideas to get you started:
 | [3614-process-string-with-special-operations-ii](https://github.com/Astro1401/Astro1401/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Astro1401/Astro1401/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Astro1401/Astro1401/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Astro1401/Astro1401/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
