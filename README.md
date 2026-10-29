@@ -249,6 +249,7 @@ Here are some ideas to get you started:
 | [3742-maximum-path-score-in-a-grid](https://github.com/Astro1401/Astro1401/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Astro1401/Astro1401/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Astro1401/Astro1401/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Astro1401/Astro1401/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Astro1401/Astro1401/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Astro1401/Astro1401/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Astro1401/Astro1401/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -531,6 +532,7 @@ Here are some ideas to get you started:
 | [3614-process-string-with-special-operations-ii](https://github.com/Astro1401/Astro1401/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Astro1401/Astro1401/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Astro1401/Astro1401/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Astro1401/Astro1401/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Astro1401/Astro1401/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -794,6 +796,7 @@ Here are some ideas to get you started:
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Astro1401/Astro1401/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Astro1401/Astro1401/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Astro1401/Astro1401/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -940,6 +943,7 @@ Here are some ideas to get you started:
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Astro1401/Astro1401/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Astro1401/Astro1401/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Astro1401/Astro1401/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Astro1401/Astro1401/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1032,6 +1036,7 @@ Here are some ideas to get you started:
 | [3525-find-x-value-of-array-ii](https://github.com/Astro1401/Astro1401/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Astro1401/Astro1401/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Astro1401/Astro1401/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Astro1401/Astro1401/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1189,6 +1194,7 @@ Here are some ideas to get you started:
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Astro1401/Astro1401/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Astro1401/Astro1401/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/Astro1401/Astro1401/tree/main/3161-block-placement-queries/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Astro1401/Astro1401/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1237,6 +1243,7 @@ Here are some ideas to get you started:
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Astro1401/Astro1401/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Astro1401/Astro1401/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Astro1401/Astro1401/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Astro1401/Astro1401/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1307,6 +1314,7 @@ Here are some ideas to get you started:
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Astro1401/Astro1401/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Astro1401/Astro1401/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Astro1401/Astro1401/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Astro1401/Astro1401/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
