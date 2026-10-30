@@ -446,6 +446,7 @@ Here are some ideas to get you started:
 | [0043-multiply-strings](https://github.com/Astro1401/Astro1401/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Astro1401/Astro1401/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Astro1401/Astro1401/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/Astro1401/Astro1401/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/Astro1401/Astro1401/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Astro1401/Astro1401/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Astro1401/Astro1401/tree/main/0079-word-search/) | Medium |
